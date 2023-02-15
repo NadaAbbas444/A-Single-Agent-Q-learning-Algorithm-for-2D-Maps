@@ -50,7 +50,6 @@ The algorithm was further tested in two different environments. As can be expect
 
 ![](Aspose.Words.b062e3ec-fd14-400c-8e67-3fd50a13af7d.013.png) ![](Aspose.Words.b062e3ec-fd14-400c-8e67-3fd50a13af7d.014.png)
 
-(c) Map(2)- test(1) (d) Map(2)- test(2)
 
 Figure 5: training Map(2), Goal (2,15) : (α = 0.9 , epsilon = 0.7,γ = 0.7)
 
