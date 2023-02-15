@@ -9,14 +9,13 @@ The goal of this lab is to implement a Reinforcement algorithm -Q- Learning- to 
 
 Figures [1 ](#_page0_x70.87_y319.81)and [2 ](#_page0_x70.87_y534.16)demonstrate the effect of having a very small and a very large α, respectively. A very small α results in a more stable convergence of reward whereas the reward progress of higher α is more sporadic, as expected.
 
-1) Reward over Episodes![](Aspose.Words.b062e3ec-fd14-400c-8e67-3fd50a13af7d.002.png)![](Aspose.Words.b062e3ec-fd14-400c-8e67-3fd50a13af7d.003.png)
-   2) Value Function
-
+ ![](Aspose.Words.b062e3ec-fd14-400c-8e67-3fd50a13af7d.002.png)![](Aspose.Words.b062e3ec-fd14-400c-8e67-3fd50a13af7d.003.png)
+ 
 Figure 1: Effect of Small Learning Rate (α = 0.1)
 
-1) Reward over Episodes![](Aspose.Words.b062e3ec-fd14-400c-8e67-3fd50a13af7d.004.png)![](Aspose.Words.b062e3ec-fd14-400c-8e67-3fd50a13af7d.005.png)
-   2) Value Function
-
+ 
+![](Aspose.Words.b062e3ec-fd14-400c-8e67-3fd50a13af7d.004.png)![](Aspose.Words.b062e3ec-fd14-400c-8e67-3fd50a13af7d.005.png)
+ 
 Figure 2: Effect of Large Learning Rate (α = 0.8)
 
 2. Discount Factor (γ)
@@ -54,4 +53,4 @@ The algorithm was further tested in two different environments. As can be expect
 (c) Map(2)- test(1) (d) Map(2)- test(2)
 
 Figure 5: training Map(2), Goal (2,15) : (α = 0.9 , epsilon = 0.7,γ = 0.7)
-4
+
