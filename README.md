@@ -1,7 +1,6 @@
 # A-Single-Agent-Q-learning-Algorithm-for-2D-Maps
 
-A Single Agent Q-learning Algorithm for 2D Maps
-
+ 
 February 15, 2023![](Aspose.Words.b062e3ec-fd14-400c-8e67-3fd50a13af7d.001.png)
 
 The goal of this lab is to implement a Reinforcement algorithm -Q- Learning- to learn a policy that moves a robot to a goal position. The lab focus was to train the model to find the goal in a finite 2D environment that is closed and contains some obstacles. The robot will move one cell per iteration to the direction of the action that will be selected using a certain policy, unless there is an obstacle or the wall in front of it, in which case it will stay in the same position.
